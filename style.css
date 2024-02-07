@@ -1,0 +1,44 @@
+.container-fluid{
+   width: 100%;
+   height: 1000px;
+   background-color: rgba(163, 201, 102, 0.911);
+
+}
+.heading {
+ margin: auto;
+ width: 60%;
+ text-align: center;
+ text-transform: capitalize;
+ color: black;
+}
+.container{
+ width: 75%;
+ margin: auto;  
+}
+.row-1{
+   display: flex;
+   justify-content: space-around;
+}
+.heading-2{
+   padding: 5px;
+   text-transform: capitalize;
+}
+.container1{
+   margin: auto;
+   text-align:left;
+   border: 5px;
+   }
+.row-2{
+   padding: 100px;
+    display: flex;
+   justify-content: space-around;
+
+}
+
+.col-2{
+   text-align: center;
+}
+.heading-3{
+   text-align: center;
+ text-transform: capitalize;  
+}
